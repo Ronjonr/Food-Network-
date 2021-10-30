@@ -109,3 +109,22 @@ font-size: 48px;
 .percent-box p{
 font-size: 25px;
 }
+footer{
+    background-color: black;
+   height: 400px;
+   
+    
+}
+footer h3 span{
+    color: orangered;
+    }
+    footer h3{
+        text-align: center;
+        color: #5b5b5b;
+        font-size: 30px;
+    }
+    footer p{
+        text-align: center;
+        color: rgb(187, 184, 184);
+        letter-spacing: 1px;
+    }
